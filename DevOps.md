@@ -1,5 +1,9 @@
-| Column 1   | Column 2   |
+| CISSP Glossary   | AWS Amazon   |
 |------------|------------|
 | An approach based on lean and agile principles in which business owners and the development, operations, and quality assurance departments collaborate.| DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity| 
 | แนวทางที่ใช้หลักการ Lean และ Agile ซึ่งเจ้าของธุรกิจและแผนกพัฒนา, ปฏิบัติการ, และควบคุมคุณภาพ ร่วมมือกัน| DevOps เป็นการผสมผสานระหว่างปรัชญา วัฒนธรรม การปฏิบัติงาน และเครื่องมือต่างๆ ที่ช่วยเพิ่มความสามารถขององค์กรในการส่งมอบแอปพลิเคชันและบริการได้อย่างรวดเร็ว| 
-| Row 3 Col 1| Row 3 Col 2| 
+
+| สรุป    | ตัวอย่างในชีวิตประจำวัน |
+| -------- | ------- |
+| DevOps คือกระบวนการที่ช่วยเพิ่มประสิทธิภาพของการพัฒนาและการส่งมอบซอฟท์แวร์ | เราสามารถใช้หลักการของ DevOps ในการวางแผนตารางกิจวัตรประจำวันได้ โดยแบ่งงานออกเป็นส่วนย่อยๆ กำหนดเวลาที่ชัดเจน และติดตามความคืบหน้า ซึ่งคล้ายกับการวางแผนการพัฒนาซอฟต์แวร์ |
+
