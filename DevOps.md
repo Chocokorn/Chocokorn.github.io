@@ -1,9 +1,9 @@
-##DevOps
+## DevOps
 
 | CISSP Glossary   | AWS Amazon   |
 |------------|------------|
 | An approach based on lean and agile principles in which business owners and the development, operations, and quality assurance departments collaborate.| DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity| 
-| แนวทางที่ใช้หลักการ Lean และ Agile ซึ่งเจ้าของธุรกิจและแผนกพัฒนา, ปฏิบัติการ, และควบคุมคุณภาพ ร่วมมือกัน| DevOps เป็นการผสมผสานระหว่างปรัชญา วัฒนธรรม การปฏิบัติงาน และเครื่องมือต่างๆ ที่ช่วยเพิ่มความสามารถขององค์กรในการส่งมอบแอปพลิเคชันและบริการได้อย่างรวดเร็ว|
+| Gemini: แนวทางที่ใช้หลักการ Lean และ Agile ซึ่งเจ้าของธุรกิจและแผนกพัฒนา, ปฏิบัติการ, และควบคุมคุณภาพ ร่วมมือกัน| Gemini: DevOps เป็นการผสมผสานระหว่างปรัชญา วัฒนธรรม การปฏิบัติงาน และเครื่องมือต่างๆ ที่ช่วยเพิ่มความสามารถขององค์กรในการส่งมอบแอปพลิเคชันและบริการได้อย่างรวดเร็ว|
 | https://www.isc2.org/certifications/cissp/cissp-student-glossary  | https://aws.amazon.com/devops/what-is-devops/    |
 
 | สรุป    | ตัวอย่างในชีวิตประจำวัน |
