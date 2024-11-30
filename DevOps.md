@@ -1,3 +1,5 @@
+##DevOps
+
 | CISSP Glossary   | AWS Amazon   |
 |------------|------------|
 | An approach based on lean and agile principles in which business owners and the development, operations, and quality assurance departments collaborate.| DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity| 
