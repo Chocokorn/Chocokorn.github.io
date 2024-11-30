@@ -1,4 +1,4 @@
 # Chocokorn.github.io
-![B.png](./Bii.jpeg) 
+![B.png](./bbii.jpg) 
 - Habibah Masae
   -  Comsci
