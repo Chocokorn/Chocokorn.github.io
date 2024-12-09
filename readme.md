@@ -1,5 +1,5 @@
 # Chocokorn.github.io
-![B.png](./bb1.jpg) 
+![B.png](./img/bb1.jpg) 
 #### Habibah Masae
   - Student at Kasetsart University Sriracha Campus
   - Major : Computer Science
