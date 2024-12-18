@@ -1,5 +1,5 @@
 ## E-card Merry Christmas
 ![B.png](./img/Merry_Christmas.png)
 
-### Steganography 
+### Steganography Used
   - https://stylesuxx.github.io/steganography/
