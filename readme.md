@@ -4,7 +4,7 @@
   - Student at Kasetsart University Sriracha Campus
   - Major : Computer Science
 
-#### Details
+#### Details 🎀
   - Nickname : bbii
   - Age : 21
   - Hobbies : Playing badminton , Reading
