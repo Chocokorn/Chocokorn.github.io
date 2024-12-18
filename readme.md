@@ -1,6 +1,6 @@
 # Chocokorn.github.io
 ![B.png](./img/bb1.jpg) 
-#### Habibah Masae
+#### Habibah Masae 🧕
   - Student at Kasetsart University Sriracha Campus
   - Major : Computer Science
 
@@ -14,7 +14,7 @@
   - +66 627328346
   - 196 Bacho Dist. , Narathiwat  ,96170
 
-#### Assignment
+#### Assignment 📁
   1. [InfoSysSec Glossary (devops)](devops.md)
   2. [E-card (Chrismas)](ecardchristmas.md)
 
