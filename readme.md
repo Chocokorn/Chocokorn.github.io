@@ -16,6 +16,7 @@
 
 #### Assignment
   1. [InfoSysSec Glossary (devops)](devops.md)
+  2. [E-card (Chrismas)]()
 
 
 
