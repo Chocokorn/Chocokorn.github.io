@@ -1,2 +1,2 @@
 ## E-card Merry Christmas
-![B.png](./img/Mery_Christmas.png)
+![B.png](./img/Merry_Christmas.png)
