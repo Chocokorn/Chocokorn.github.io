@@ -15,7 +15,7 @@
   - 196 Bacho Dist. , Narathiwat  ,96170
 
 #### Assignment
-  1. 
+  1. [InfoSysSec Glossary (devops)](devops.md)
 
 
 
