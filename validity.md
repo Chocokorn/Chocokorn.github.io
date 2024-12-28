@@ -1,5 +1,5 @@
 # Data Quality
-## Validity
+## Validity 💫
 
 | Validity | Chat GPT   | Gemini     |
 | ----- | -------- | ----------- |
