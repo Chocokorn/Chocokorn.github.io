@@ -1,7 +1,7 @@
 # Data Quality
 ## Validity
 
-| Column 1      | Column 2      |
-| ------------- | ------------- |
-| Cell 1, Row 1 | Cell 2, Row 1 |
-| Cell 1, Row 2 | Cell 1, Row 2 |
+| Definition         | Centered         | Right                      |
+| :----------- | :--------------: | -------------------------: |
+| This is left | Text is centered | And this is right-aligned  |
+| More text    | Even more text   | And even more to the right |
