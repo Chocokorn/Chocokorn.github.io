@@ -17,6 +17,7 @@
 #### Assignment 📁
   1. [InfoSysSec Glossary (devops)](devops.md)
   2. [E-card (Chrismas)](ecardchristmas.md)
+  3. [Data Quality](validity.md)
 
 
 
