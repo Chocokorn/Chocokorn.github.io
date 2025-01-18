@@ -36,11 +36,6 @@
 [![NCSA Challenge](https://img.youtube.com/vi/EG8Q1cCaP7M/maxresdefault.jpg)](https://youtu.be/EG8Q1cCaP7M?feature=shared) |
 
 
-
-|รับชมวิดีโอคลิกที่ภาพ 📹🎞️        |
-:-------------------------:|
-[![NCSA Challenge](https://img.youtube.com/vi/EG8Q1cCaP7M/maxresdefault.jpg)](https://youtu.be/EG8Q1cCaP7M?feature=shared) |
-
 # สมาชิก 👩🏻‍💻
 1. 👦🏻 Naphop Khumchawna -> [To Github Page](https://nutnaphop.github.io/ncsa.md) 
 2. 🧕🏻 Onnicha Srisaman -> [To Github Page](https://momojoj.github.io/ncsa) 
