@@ -1,5 +1,5 @@
 # Security Control
-![B.png](./img/sc_control.jpg) 
+![B.png](./img/s_control.jpg) 
 
 #### Type of Security Controls : Technical Control 
 #### Control Functions : Preventative
