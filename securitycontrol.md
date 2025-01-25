@@ -1,5 +1,5 @@
 # Security Control 𖡎   
-![B.png](./img/s_control.png) 
+![B.png](./img/secur_control.png) 
 
 ꒰ สแกนลายนิ้วมือเพื่อเข้าตึก ꒱
 
