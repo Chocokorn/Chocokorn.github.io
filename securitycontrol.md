@@ -9,4 +9,4 @@ Control Functions : Preventative (MFA)
 
 Location : ตึก 26 ชั้น G (สแกนลายนิ้วมือเพื่อเข้าตึก)
 
- ❰❰ [Back to profile](readme.md)
+ ❰❰  [Back to profile](readme.md)
