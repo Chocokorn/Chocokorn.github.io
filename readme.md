@@ -18,7 +18,7 @@
   1. [InfoSysSec Glossary (devops)](devops.md)
   2. [E-card (Chrismas)](ecardchristmas.md)
   3. [Data Quality](validity.md)
-  4. [NCSA Boardgame](boardgame.md)
+  4. [Boardgame](boardgame.md)
   5. [Security Control](securitycontrol.md)
 
 
