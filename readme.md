@@ -19,7 +19,7 @@
   2. [E-card (Chrismas)](ecardchristmas.md)
   3. [Data Quality](validity.md)
   4. [Boardgame](boardgame.md)
-  5. [Security Control](securitycontrol.md)
+  5. [Security Control](security-control.md)
 
 
 
