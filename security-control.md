@@ -5,7 +5,7 @@
 
 Type of Security Controls : Technical Control
 
-Control Functions : Preventative (MFA)
+Control Functions : Preventative 
 
 Location : ตึก 26 ชั้น G (สแกนลายนิ้วมือเพื่อเข้าตึก)
 
