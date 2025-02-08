@@ -1,4 +1,4 @@
-# 2.8.7 One Time Verifier ᨳ
+# 2.8.7 One Time Verifier 
 
 | [2.8.7 One Time Verifier](https://owasp.org/www-project-application-security-verification-standard/https://owasp.org/www-project-application-security-verification-standard/https://owasp.org/www-project-application-security-verification-standard/) |
 | ----------- |
