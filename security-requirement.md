@@ -1,4 +1,4 @@
-# 2.8.7 One Time Verifier
+# 2.8.7 One Time Verifier ᨳ
 
 | [2.8.7 One Time Verifier](https://owasp.org/www-project-application-security-verification-standard/https://owasp.org/www-project-application-security-verification-standard/https://owasp.org/www-project-application-security-verification-standard/) |
 | ----------- |
@@ -12,7 +12,7 @@
 | -------- | ------- |
 | 2.8.7 เป็นตัวตรวจสอบ Biometric Authenticators ว่าเป็นปัจจัยรองในการยืนยันตัวตนหรือไม่ เพราะต้องใช้ร่วมกับสิ่งที่เป็นปัจจัยหลักในการยืนยันตัวตนอย่าง รหัสผ่าน, PIN (something you know) กับ สมาร์ทโฟน, บัตรสมาร์ทการ์ด (something you have) | การเข้าถึงสมาร์ทโฟน: ผู้ใช้ต้องสแกนลายนิ้วมือหรือจดจำใบหน้า ร่วมกับรหัสผ่านหรือ PIN    |
 
-## Members
+## Members 🧕👩‍🦰
 [6530200550 Habibah Masae](chocokorn.github.io/security-requirement)
 
 [6530200657 Thawanrat Phithak](https://tongyeh.github.io/security-requirement)
